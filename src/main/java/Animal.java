@@ -6,7 +6,6 @@ public abstract class Animal { // abstract means it exists, but you cannot creat
 
     public Animal(String name){
         this.name = name;
-
     }
 
     public String makeNoise(){
